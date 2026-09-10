@@ -1,4 +1,4 @@
-# 📚 Detecting Similar Book Reviews using MinHash & LSH
+# 📚 Detecting Similar Book Reviews 
 
 Pipeline to efficiently identify near-duplicate book reviews in the **Amazon Books Reviews** dataset using **MinHash** and **Locality-Sensitive Hashing (LSH)**.
 
